@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mnist-tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mnist-tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/mnist-tools.jar!/" />
+    </SOURCES>
+  </library>
+</component>
